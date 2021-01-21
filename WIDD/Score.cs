@@ -8,5 +8,9 @@ namespace WIDD
 {
     class Score
     {
+        public int roundnumber;
+        public int placement;
+        public int roundStandardScore;
+        public int roundBonusScore;
     }
 }

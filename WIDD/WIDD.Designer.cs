@@ -1,7 +1,7 @@
 ﻿
 namespace WIDD
 {
-    partial class Form1
+    partial class WIDD
     {
         /// <summary>
         /// Erforderliche Designervariable.

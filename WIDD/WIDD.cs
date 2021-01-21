@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WIDD
 {
-    public partial class Form1 : Form
+    public partial class WIDD : Form
     {
-        public Form1()
+        public WIDD()
         {
             InitializeComponent();
         }

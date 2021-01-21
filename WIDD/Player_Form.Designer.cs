@@ -1,7 +1,7 @@
 ﻿
 namespace WIDD
 {
-    partial class Players
+    partial class Player_Form
     {
         /// <summary>
         /// Required designer variable.
